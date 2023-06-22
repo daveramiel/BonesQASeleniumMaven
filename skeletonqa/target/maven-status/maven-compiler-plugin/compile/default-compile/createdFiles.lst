@@ -1,0 +1,11 @@
+ar\globallogic\qa\elements\BaseElement.class
+ar\globallogic\qa\elements\MyElement.class
+ar\globallogic\qa\base\DataBaseProperties.class
+ar\globallogic\qa\base\ExecuteSQL.class
+ar\globallogic\qa\webdriver\CapabilitiesBrowser.class
+ar\globallogic\qa\base\PropertiesReader.class
+ar\globallogic\qa\webdriver\Configuracion.class
+ar\globallogic\qa\webdriver\BannerPage.class
+ar\globallogic\qa\webdriver\WebDriver.class
+ar\globallogic\qa\webdriver\ConfigHelper.class
+ar\globallogic\qa\base\ConexionBD.class

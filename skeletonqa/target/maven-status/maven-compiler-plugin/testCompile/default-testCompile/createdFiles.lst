@@ -1,0 +1,5 @@
+pages\ExamplePage.class
+steps\ExampleStep.class
+tests\ExampleTest.class
+tests\StepReporterEventListener.class
+tests\utils\TestBase.class

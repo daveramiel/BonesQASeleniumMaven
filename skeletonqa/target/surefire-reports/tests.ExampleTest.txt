@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.ExampleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 23.056 sec <<< FAILURE! - in tests.ExampleTest
+FirstTestExample  Time elapsed: 10.284 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: El header no se encuentra visible ==> expected: <true> but was: <false>
+	at tests.ExampleTest.FirstTestExample(ExampleTest.java:26)
+

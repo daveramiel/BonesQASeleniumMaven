@@ -1,0 +1,19 @@
+revisar los wilds cards - Done!
+web driver de myelement - Done!
+verificar configuracion de configHelper - Done!
+
+
+Importante:
+-Drivers EXE de forma remota. - Done!
+-Usar Archivo Configuracion no el Json. (ConfigHelper) - Done!
+
+-Configurar Allure correctamente
+-Investigar Allure 2 y alternativas
+
+PROBAR EN MAYUSCULA:
+- 1er Prueba realizada con EXIIIIITO!!!!!!!!!!
+
+
+No Tan Importante:
+-Poner de forma generica las configuraciones en resources
+-Agregar mas documentacion al codigo y al readme.

@@ -1,0 +1,22 @@
+{
+  "default": {
+    "implicitlyWait": 10,
+    "browserName": "chrome",
+    "appUrl": "https://demoqa.com/",
+    "verNavegador": true,
+    "navegadorPrivado": true,
+    "pageLoadTimeOut": 20,
+    "usuario": "",
+    "password": ""
+  },
+  "demonBlaze": {
+    "implicitlyWait": 10,
+    "browserName": "chrome",
+    "appUrl": "https://www.demoblaze.com/",
+    "verNavegador": true,
+    "navegadorPrivado": true,
+    "pageLoadTimeOut": 20,
+    "usuario": "",
+    "password": ""
+  }
+}
